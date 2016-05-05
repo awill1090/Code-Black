@@ -1,3 +1,6 @@
+---
+author: Al Williams
+---
 # My first awesome blog post
 
 Amet distinctio sed doloremque labore magni quia quam vel? Eaque sint quos cupiditate corporis delectus? Hic impedit dignissimos totam cum eum porro soluta beatae error! Nihil ducimus consectetur quas reiciendis.
